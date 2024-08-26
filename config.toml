@@ -1,6 +1,4 @@
 
-theme = ["hugo-shortcode-gallery"]
-
 [params]
     # Set to enable Plausible Analytics.
     plausible_domain = ""
