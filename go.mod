@@ -1,5 +1,3 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/mfg92/hugo-shortcode-gallery
 
-go 1.19
-
-require github.com/bep/gallerydeluxe v0.11.1 // indirect
+go 1.18
