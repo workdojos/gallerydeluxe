@@ -1,4 +1,17 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 906d373ad52f471fcf0776b5a70862e238185220
 baseURL      = "https://pics.mcdonough.host"
 title        = "McDonough Host"
 [[module.imports]]
 path = "github.com/mfg92/hugo-shortcode-gallery"
+<<<<<<< HEAD
+=======
+=======
+[module]
+[module.hugoVersion]
+    extended = true
+    min = '0.121.2'
+>>>>>>> 87b3ea7996791682e9d8bd9facae7d1d66f1e8dc
+>>>>>>> 906d373ad52f471fcf0776b5a70862e238185220
