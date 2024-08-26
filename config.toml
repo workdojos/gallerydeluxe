@@ -1,7 +1,3 @@
-baseURL      = "https://www.example.com/"
-title        = "Gallery Deluxe"
-disableKinds = ["section", "taxonomy", "term"]
-
 [params]
     # Set to enable Plausible Analytics.
     plausible_domain = ""
